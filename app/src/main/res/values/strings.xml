@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">room_multitable_app</string>
+
+
+    <string-array name="schools">
+        <item>Army Public</item>
+        <item>Karachi Grammar</item>
+        <item>Princeton</item>
+        <item>Oxford Grammar</item>
+        <item>Allied Schools</item>
+    </string-array>
+</resources>
